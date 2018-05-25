@@ -1,0 +1,4 @@
+#Thu May 24 20:11:12 IST 2018
+base.0=/Users/priyankatiwari/Desktop/React_Native/sdn_rn_projects/Refernce_project/MyApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/priyankatiwari/Desktop/React_Native/sdn_rn_projects/Refernce_project/MyApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
